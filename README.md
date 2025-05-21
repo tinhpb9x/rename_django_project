@@ -1,0 +1,1 @@
+# rename_django_project
